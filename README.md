@@ -6,7 +6,7 @@ Include UIView Gradient
 
 ## Authors
 
-* **Andres Piccinelli** - 
+* **Andres Piccinelli** 
 
 
 ## License
