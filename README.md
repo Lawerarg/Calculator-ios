@@ -1,9 +1,9 @@
 # Calcualtor
 
-Calcualtor in iOS
+Calcualtor in iOS 
 Include UIView Gradient
 
-![appcalculator](https://user-images.githubusercontent.com/26223104/43282375-5a24874c-90ec-11e8-9e84-c530cd81f2ce.png)
+![mockcalculator](https://user-images.githubusercontent.com/26223104/43294589-83ba71e6-9116-11e8-9ef8-fd52e4e27217.jpg)
 
 
 ## Authors
